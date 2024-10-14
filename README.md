@@ -7,5 +7,6 @@
 ```
 scse
 ├─exercise-graded
-└─exercise-non-graded
+├─exercise-non-graded
+└─mini-project
 ```
